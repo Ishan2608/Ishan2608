@@ -45,10 +45,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-<p align="left">👋 Hello there! I'm Ishan, a passionate tech enthusiast with a knack for crafting solutions and compelling content.<br><br>🚀 Skills: Python | MERN Stack Web Development | Machine Learning | Data Analysis | SQL | MS Office Tools | UI/UX Design | Content Writing<br><br>🛠️ Projects Highlights:<br><br>Cifi: A Cafe Review Web App in Flask<br>Image Analyzer: Web App extracting top 10 colours & codes from uploaded images<br>Arcade Game Clones: Space Invaders & Breakout<br>Desktop GUI Apps: Typing Image Tester, Image Watermarking App<br>Frontend Apps: Drawing Tool, CSS Particle Animation<br>...and a plethora of other exciting projects!<br>🌟 Additional Skills: Content Writing | Teaching | Code Documentation | Prompt Development | Graphic Design using Canva<br><br>📚 Work Experience: Technical Content Writer | English & Computer Science Teacher<br><br>🔗 Connect with me and explore more at https://ishan2608.github.io/Portfolio-Website/</p>
+<p align="left">🚀 Skills: Python | MERN Stack Web Development | Machine Learning | Data Analysis | SQL | MS Office Tools | UI/UX Design | Content Writing<br><br>🛠️ Projects Highlights:<br><br>Cifi: A Cafe Review Web App in Flask<br>Image Analyzer: Web App extracting top 10 colours & codes from uploaded images<br>Arcade Game Clones: Space Invaders & Breakout<br>Desktop GUI Apps: Typing Image Tester, Image Watermarking App<br>Frontend Apps: Drawing Tool, CSS Particle Animation<br>...and a plethora of other exciting projects!<br>🌟 Additional Skills: Content Writing | Teaching | Code Documentation | Prompt Development | Graphic Design using Canva<br><br>📚 Work Experience: Technical Content Writer | English & Computer Science Teacher
+  
+<br><br>🔗 Connect with me and explore more at https://ishan2608.github.io/Portfolio-Website/</p>
 
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/https://github.com/Ishan2608" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
