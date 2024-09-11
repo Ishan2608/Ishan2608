@@ -45,9 +45,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
-<p align="left">🚀 Skills: Python | MERN Stack Web Development | Machine Learning | Data Analysis | SQL | MS Office Tools | UI/UX Design | Content Writing<br><br>🛠️ Projects Highlights:<br><br>Cifi: A Cafe Review Web App in Flask<br>Image Analyzer: Web App extracting top 10 colours & codes from uploaded images<br>Arcade Game Clones: Space Invaders & Breakout<br>Desktop GUI Apps: Typing Image Tester, Image Watermarking App<br>Frontend Apps: Drawing Tool, CSS Particle Animation<br>...and a plethora of other exciting projects!<br>🌟 Additional Skills: Content Writing | Teaching | Code Documentation | Prompt Development | Graphic Design using Canva<br><br>📚 Work Experience: Technical Content Writer | English & Computer Science Teacher
-  
-<br><br>🔗 Connect with me and explore more at https://ishan2608.github.io/Portfolio-Website/</p>
+<p align="left">
+  🚀 Skills: Python | MERN Stack Web Development | Machine Learning | Data Analysis | SQL | MS Office Tools | UI/UX Design | Content Writing<br><br>
+  🛠️ Projects Highlights:
+  <br><br>
+  Rooms: A real-time all rounder chat application built in MERN Stack. <br>
+  Space Geeks: A community for space lovers for being updated and with latest and historic space related events and news.
+  Space Race: A data science project analysing the space missions all across the globe since the beginning.
+  Image Analyzer: Web App extracting top 10 colours & codes from uploaded images. <br>
+  Arcade Game Clones: Space Invaders & Breakout. <br>
+  Desktop GUI Apps: Typing Image Tester, Image Watermarking App <br>.
+  Frontend Apps: Drawing Tool, CSS Particle Animation<br>...and a plethora of other exciting projects! <br>
+  🌟 Additional Skills: Content Writing | Teaching | Code Documentation | Prompt Development | Graphic Design using Canva 
+  <br><br>
+  📚 Work Experience: Project Manager | Technical Content Writer | English & Computer Science Teacher
+  <br><br>
+  🔗 Connect with me and explore more at https://ishan2608.github.io/Portfolio-Website/</p>
 
 ## Connect with me  
 <div align="left">
