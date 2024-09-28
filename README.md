@@ -58,7 +58,7 @@
   <br><br>
   🔗 Connect with me and explore more at https://ishan2608.github.io/Portfolio-Website/
 </p>
-## Connect with me  
+<h1> Connect with me </h1>
 <div align="left">
 <a href="https://github.com/https://github.com/Ishan2608" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
