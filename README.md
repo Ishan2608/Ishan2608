@@ -1,9 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
-
 <br>
-
 <p align="left">My name is Ishan and I'm a web developer and machine learning engineer from India.</p>
-
 
 <h1 align="left">About me</h1>
 
@@ -48,20 +45,19 @@
 <p align="left">
   🚀 Skills: Python | MERN Stack Web Development | Machine Learning | Data Analysis | SQL | MS Office Tools | UI/UX Design | Content Writing<br><br>
   🛠️ Projects Highlights:
-  <br><br>
-  - Rooms: A real-time all rounder chat application built in MERN Stack. <br>
-  - Space Geeks: A community for space lovers for being updated and with latest and historic space related events and news.
-  - Space Race: A data science project analysing the space missions all across the globe since the beginning.
-  - Image Analyzer: Web App extracting top 10 colours & codes from uploaded images. <br>
-  - Arcade Game Clones: Space Invaders & Breakout. <br>
-  - Desktop GUI Apps: Typing Image Tester, Image Watermarking App <br>.
-  - Frontend Apps: Drawing Tool, CSS Particle Animation... and a plethora of other exciting projects! <br>
+<ul>
+  <li> <b>Epidise:</b> A website for a new emerging startup in the field of AI </li>
+  <li> <b>Rooms:</b> A real-time all rounder chat application built in MERN Stack. </li>
+  <li> <b>CHM and Gann Cycles for Indian Stock Market:</b> A data engineering and data science project for giving best stocks in particular time intervals </li>
+  <li> <b>Space Geeks:</b> A community for space lovers for being updated and with latest and historic space related events and news. </li>
+  <li> <b>Image Analyzer:</b> Web App extracting top 10 colours & codes from uploaded images. </li>
+</ul>
   🌟 Additional Skills: Content Writing | Teaching | Code Documentation | Prompt Development
   <br><br>
   📚 Work Experience: Project Manager | Technical Content Writer | English & Computer Science Teacher
   <br><br>
-  🔗 Connect with me and explore more at https://ishan2608.github.io/Portfolio-Website/</p>
-
+  🔗 Connect with me and explore more at https://ishan2608.github.io/Portfolio-Website/
+</p>
 ## Connect with me  
 <div align="left">
 <a href="https://github.com/https://github.com/Ishan2608" target="_blank">
