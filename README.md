@@ -46,7 +46,7 @@
   🚀 Skills: Python | MERN Stack Web Development | Machine Learning | Data Analysis | SQL | MS Office Tools | UI/UX Design | Content Writing<br><br>
   🛠️ Projects Highlights:
 <ul>
-  <li> <b>Epidise:</b> A website for a new emerging startup in the field of AI </li>
+  <li> <b> <a href="https://www.epidise.com" target="_blank"> Epidise: </a> </b> A website for a new emerging startup in the field of AI </li>
   <li> <b>Rooms:</b> A real-time all rounder chat application built in MERN Stack. </li>
   <li> <b>CHM and Gann Cycles for Indian Stock Market:</b> A data engineering and data science project for giving best stocks in particular time intervals </li>
   <li> <b>Space Geeks:</b> A community for space lovers for being updated and with latest and historic space related events and news. </li>
