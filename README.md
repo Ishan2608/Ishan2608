@@ -7,7 +7,7 @@
 
 <h1 align="left">About me</h1>
 
-<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning machine learning and deep learning.<br>🎯 Goals: become a proficient developer.<br>🎲 Fun fact: I teach well.</p>
+<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning machine learning and deep learning.<br>🎯 Goals: Change the World.<br>🎲 Fun fact: I teach well.</p>
 
 <h2 align="left">I code with</h2>
 
@@ -49,14 +49,14 @@
   🚀 Skills: Python | MERN Stack Web Development | Machine Learning | Data Analysis | SQL | MS Office Tools | UI/UX Design | Content Writing<br><br>
   🛠️ Projects Highlights:
   <br><br>
-  Rooms: A real-time all rounder chat application built in MERN Stack. <br>
-  Space Geeks: A community for space lovers for being updated and with latest and historic space related events and news.
-  Space Race: A data science project analysing the space missions all across the globe since the beginning.
-  Image Analyzer: Web App extracting top 10 colours & codes from uploaded images. <br>
-  Arcade Game Clones: Space Invaders & Breakout. <br>
-  Desktop GUI Apps: Typing Image Tester, Image Watermarking App <br>.
-  Frontend Apps: Drawing Tool, CSS Particle Animation<br>...and a plethora of other exciting projects! <br>
-  🌟 Additional Skills: Content Writing | Teaching | Code Documentation | Prompt Development | Graphic Design using Canva 
+  - Rooms: A real-time all rounder chat application built in MERN Stack. <br>
+  - Space Geeks: A community for space lovers for being updated and with latest and historic space related events and news.
+  - Space Race: A data science project analysing the space missions all across the globe since the beginning.
+  - Image Analyzer: Web App extracting top 10 colours & codes from uploaded images. <br>
+  - Arcade Game Clones: Space Invaders & Breakout. <br>
+  - Desktop GUI Apps: Typing Image Tester, Image Watermarking App <br>.
+  - Frontend Apps: Drawing Tool, CSS Particle Animation... and a plethora of other exciting projects! <br>
+  🌟 Additional Skills: Content Writing | Teaching | Code Documentation | Prompt Development
   <br><br>
   📚 Work Experience: Project Manager | Technical Content Writer | English & Computer Science Teacher
   <br><br>
