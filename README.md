@@ -1,12 +1,13 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# align="left">Hey 👋 What's up?
 <br>
+
 <p align="left">My name is Ishan, and I specialize in developing web applications and AI systems. </p>
 
-<h1 align="left">About me</h1>
+# align="left">About me
 
 <p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning machine learning and deep learning.<br>🎯 Goals: Change the World.<br>🎲 Fun fact: I teach well.</p>
 
-<h2 align="left">I code with</h2>
+## align="left">I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -50,9 +51,11 @@
 </div>
 
 <p align="left">
-  🚀 Skills: Python | MERN Stack Web Development | Machine Learning | Data Analysis | SQL | MS Office Tools | UI/UX Design | Content Writing<br><br>
+  🚀 Skills: MERN Stack Web Development | Python | Machine Learning | Deep Learning with TensorFlow and PyTorch | Data Analysis | SQL | Cypher - GraphQL | UI/UX Design | Content Writing
+  <br><br>
   🛠️ Projects Highlights:
 <ul>
+  
   <li> <b> <a href="https://www.epidise.com" target="_blank"> Epidise: </a> </b> A website for a new emerging startup in the field of AI </li>
   <li> <b>Rooms:</b> A real-time all rounder chat application built in MERN Stack. </li>
   <li> <b>Space Geeks:</b> A community for space lovers for being updated and with latest and historic space related events and news. </li>
@@ -64,6 +67,7 @@
   <br><br>
   🔗 Connect with me and explore more at https://ishan2608.github.io/Portfolio-Website/
 </p>
+
 <h1> Connect with me </h1>
 <div align="left">
 <a href="https://github.com/Ishan2608" target="_blank">
