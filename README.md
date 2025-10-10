@@ -1,13 +1,13 @@
-# align="left">Hey 👋 What's up?
+# Hey 👋 What's up?
 <br>
 
 <p align="left">My name is Ishan, and I specialize in developing web applications and AI systems. </p>
 
-# align="left">About me
+# About me
 
 <p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning machine learning and deep learning.<br>🎯 Goals: Change the World.<br>🎲 Fun fact: I teach well.</p>
 
-## align="left">I code with
+## I code with
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
