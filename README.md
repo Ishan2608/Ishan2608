@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.png" height="40" alt="langchain logo" />
+  <img src="https://img.shields.io/badge/LangChain-343541?logo=langchain&logoColor=white&style=for-the-badge" height="40" alt="LangChain logo badge" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
