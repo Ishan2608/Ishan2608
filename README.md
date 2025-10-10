@@ -2,7 +2,7 @@
 **💡 AI Engineer | 🌐 Full-Stack Developer | 🧭 Educator | 🚀 CPO @ [Epidise](https://www.epidise.com)**  
 
 > I design intelligent systems that combine **deep learning, reasoning, and creativity**.  
-Currently pursuing **BCA (AI & Data Science)** at *Graphic Era Hill University*, while leading product and AI initiatives at **[Epidise](https://www.epidise.com)** — a startup building the next generation of **personalized AI companions**.  
+Currently pursuing **BCA (AI & Data Science)** at *Graphic Era Hill University*, while leading product and AI initiatives at **[Epidise](https://www.epidise.com)** — a startup building the next generation of **personalized healthcare**.  
 
 ---
 
