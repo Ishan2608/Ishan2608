@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 <br>
-<p align="left">My name is Ishan and I'm a web developer and machine learning engineer from India.</p>
+<p align="left">My name is Ishan, and I specialize in developing web applications and AI systems. </p>
 
 <h1 align="left">About me</h1>
 
@@ -34,12 +34,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+   <!-- Added ML Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/favicon.png" height="40" alt="langchain logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+
 </div>
 
 <p align="left">
