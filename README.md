@@ -85,7 +85,7 @@ Currently pursuing **BCA (AI & Data Science)** at *Graphic Era Hill University*,
 |------|---------------|-------|
 | **CPO & Co-Founder** | [Epidise](https://www.epidise.com) | AI architecture, Product strategy, User experience |
 | **Technical Writer** | [GeeksforGeeks](https://www.geeksforgeeks.org/) | Machine Learning, Python, Neural Networks |
-| **Teacher** | Independent | Computer Science & English education |
+| **Teacher** | Volunteer at NGO | Computer Science, and Basic English |
 
 ---
 
