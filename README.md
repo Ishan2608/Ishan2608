@@ -1,89 +1,105 @@
-# Hey 👋 What's up?
-<br>
+# 👋 Hey, I’m Ishan  
+**💡 AI Engineer | 🌐 Full-Stack Developer | 🧭 Educator | 🚀 CPO @ [Epidise](https://www.epidise.com)**  
 
-<p align="left">My name is Ishan, and I specialize in developing web applications and AI systems. </p>
+> I design intelligent systems that combine **deep learning, reasoning, and creativity**.  
+Currently pursuing **BCA (AI & Data Science)** at *Graphic Era Hill University*, while leading product and AI initiatives at **[Epidise](https://www.epidise.com)** — a startup building the next generation of **personalized AI companions**.  
 
-# About me
+---
 
-<p align="left">✨ Creating bugs since 2021.<br>📚 I'm currently learning machine learning and deep learning.<br>🎯 Goals: Change the World.<br>🎲 Fun fact: I teach well.</p>
+## 🧠 What I’m Working On  
+- 🧩 Building **AI Agents** capable of reasoning, planning, and tool-use with memory  
+- 🧠 Integrating **LangChain** and **HuggingFace** models into production-grade systems  
+- 🧵 Exploring **Prompt Engineering & Prompt Hacking** for advanced LLM control  
+- 🔬 Developing **TensorFlow & PyTorch pipelines** for multimodal intelligence  
+- ⚙️ Architecting **MERN-based AI-powered** web apps with contextual understanding  
 
-## I code with
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-   <!-- Added ML Frameworks -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/LangChain-343541?logo=langchain&logoColor=white&style=for-the-badge" height="40" alt="LangChain logo badge" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+## ⚙️ Tech Stack  
 
-</div>
+### 🧠 **AI & Machine Learning**
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-343541?logo=langchain&logoColor=white&style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FEEA00?logo=huggingface&logoColor=black&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+
+### 💻 **Web Development**
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white&style=for-the-badge)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge)
+
+### 🧰 **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white&style=for-the-badge)
+![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge)
+
+---
+
+## 🚀 Featured Projects  
+
+| 🧩 Project | 💬 Description | 🧰 Tech Stack |
+|-------------|----------------|----------------|
+| **[Epidise](https://www.epidise.com)** | AI-driven personal wellness guide integrating knowledge graphs & contextual intelligence. | Next.js, LangChain, Supabase, HuggingFace |
+| **Rooms** | Real-time chat and productivity platform with user-level AI support. | MERN Stack, Socket.io |
+| **Aayu (In Progress)** | Personal medical guide combining document-based RAG, OCR, and AI reasoning. | LangChain, OpenAI, Gradio |
+| **Image Analyzer** | Extracts dominant colors and palettes from uploaded images. | Python, Flask, OpenCV |
+
+---
+
+## ✍️ Technical Writing & Teaching  
+
+🧾 **Technical Writer @ [GeeksforGeeks](https://www.geeksforgeeks.org/)** — Authored deep-dives on algorithms, ML, and Python internals.  
+📖 I run a **[Medium Blog](https://medium.com/@ishanrastogi26)** simplifying tough AI concepts like *the inner mechanics of neural networks* and *how LLMs reason, hallucinate, and learn*.  
+
+> 🧠 *No concept should feel magical — everything should feel intuitive.*
+
+---
+
+## 🌟 Strengths Beyond Code  
+
+- 🧑‍🏫 **Teaching & Mentoring:** Turning abstract topics into concrete understanding  
+- 🎯 **Prompt Engineering & Prompt Hacking:** Crafting, testing & exploiting LLM behaviors  
+- 🧩 **Product Thinking:** Translating AI capabilities into usable, human-centered products  
+- 📘 **Documentation & Writing:** Explaining technical systems with clarity and precision  
+
+---
+
+## 📚 Experience Snapshot  
+
+| Role | Organization | Focus |
+|------|---------------|-------|
+| **CPO & Co-Founder** | [Epidise](https://www.epidise.com) | AI architecture, Product strategy, User experience |
+| **Technical Writer** | [GeeksforGeeks](https://www.geeksforgeeks.org/) | Machine Learning, Python, Neural Networks |
+| **Teacher** | Independent | Computer Science & English education |
+
+---
+
+## 📫 Let’s Connect  
 
 <p align="left">
-  🚀 Skills: MERN Stack Web Development | Python | Machine Learning | Deep Learning with TensorFlow and PyTorch | Data Analysis | SQL | Cypher - GraphQL | UI/UX Design | Content Writing
-  <br><br>
-  🛠️ Projects Highlights:
-<ul>
-  
-  <li> <b> <a href="https://www.epidise.com" target="_blank"> Epidise: </a> </b> A website for a new emerging startup in the field of AI </li>
-  <li> <b>Rooms:</b> A real-time all rounder chat application built in MERN Stack. </li>
-  <li> <b>Space Geeks:</b> A community for space lovers for being updated and with latest and historic space related events and news. </li>
-  <li> <b>Image Analyzer:</b> Web App extracting top 10 colours & codes from uploaded images. </li>
-</ul>
-  🌟 Additional Skills: Content Writing | Teaching | Code Documentation | Prompt Development
-  <br><br>
-  📚 Work Experience: Project Manager | Technical Content Writer | English & Computer Science Teacher
-  <br><br>
-  🔗 Connect with me and explore more at https://ishan2608.github.io/Portfolio-Website/
+  <a href="https://linkedin.com/in/ishan-rastogi-672a5a195"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://github.com/Ishan2608"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://twitter.com/ishanrastogi26"><img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://medium.com/@ishanrastogi26"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://ishan2608.github.io/Portfolio-Website/"><img src="https://img.shields.io/badge/Portfolio-343541?logo=firefox&logoColor=white&style=for-the-badge" /></a>
 </p>
 
-<h1> Connect with me </h1>
-<div align="left">
-<a href="https://github.com/Ishan2608" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/ishanrastogi26" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/ishan-rastogi-672a5a195/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/ishan26rstg/" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@ishanrastogi26" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+---
+
+## 🧩 Fun Side Note  
+> 🐞 *Creating bugs since 2021 — but explaining them so well, they almost make sense.*
