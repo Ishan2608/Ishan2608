@@ -19,16 +19,16 @@ Currently pursuing **BCA (Hons.) with Specialization in Artificial Intelligence 
 
 ### 🧠 **AI & Machine Learning**
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FEEA00?logo=huggingface&logoColor=black&style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?logo=matplotlib&logoColor=white&style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=seaborn&logoColor=white&style=for-the-badge)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-343541?logo=langchain&logoColor=white&style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
 
-### 💻 **Web Development**
+### 💻 **MERN for Web & Mobile Development**
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -74,7 +74,7 @@ Currently pursuing **BCA (Hons.) with Specialization in Artificial Intelligence 
 
 ## 🌟 Strengths Beyond Code  
 
-- 🧑‍🏫 **Teaching & Mentoring:** Turning abstract topics into concrete understanding  
+- 📚 **Teaching & Mentoring:** Turning abstract topics into concrete understanding  
 - 🎯 **Prompt Engineering & Prompt Hacking:** Crafting, testing & exploiting LLM behaviors  
 - 🧩 **Product Thinking:** Translating AI capabilities into usable, human-centered products  
 - 📘 **Documentation & Writing:** Explaining technical systems with clarity and precision  
@@ -102,6 +102,10 @@ Currently pursuing **BCA (Hons.) with Specialization in Artificial Intelligence 
 </p>
 
 ---
+
+## My Other Profiles:
+- [![HuggingFace](https://img.shields.io/badge/HuggingFace-FEEA00?logo=huggingface&logoColor=black&style=for-the-badge)](https://huggingface.co/Ishan2608)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/Ishan2608)
 
 ## 🧩 Fun Side Note  
 > 🐞 *Creating bugs since 2021 — but explaining them so well, they almost make sense.*
