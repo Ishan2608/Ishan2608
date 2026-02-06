@@ -104,8 +104,8 @@ Currently pursuing **BCA (Hons.) with Specialization in Artificial Intelligence 
 ---
 
 ## My Other Profiles:
-- [![HuggingFace](https://img.shields.io/badge/HuggingFace-FEEA00?logo=huggingface&logoColor=black&style=for-the-badge)](https://huggingface.co/Ishan2608)
-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/Ishan2608)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FEEA00?logo=huggingface&logoColor=black&style=for-the-badge)](https://huggingface.co/Ishan2608)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge)](https://www.kaggle.com/Ishan2608)
 
 ## 🧩 Fun Side Note  
 > 🐞 *Creating bugs since 2021 — but explaining them so well, they almost make sense.*
