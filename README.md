@@ -57,7 +57,7 @@ Currently pursuing **BCA (Hons.) with Specialization in Artificial Intelligence 
 |-------------|----------------|----------------|
 | **[Epidise](https://www.epidise.com)** | AI-driven personal wellness guide integrating knowledge graphs & contextual intelligence. | Next.js, LangChain, Supabase, HuggingFace |
 | **Rooms** | Real-time chat and productivity platform with user-level AI support. | MERN Stack, Socket.io |
-| **Shree (In Progress)** | Personal financial guide AI Agent combining document-based RAG, OCR, and AI reasoning. | LangChain, OpenAI, Gradio |
+| **Artha** | Personal financial guide AI Agent combining document-based RAG, OCR, and AI reasoning. | LangChain, OpenAI, Gradio |
 | **Image Analyzer** | Extracts dominant colors and palettes from uploaded images. | Python, Flask, NumPy |
 | **Smart System Optimizer (in progress)** | Windows Task Manager made smarter with AI Integration | Python, Gemini, LangChain |
 
