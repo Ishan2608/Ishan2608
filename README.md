@@ -55,9 +55,9 @@ Currently pursuing **BCA (Hons.) with Specialization in Artificial Intelligence 
 
 | 🧩 Project | 💬 Description | 🧰 Tech Stack |
 |-------------|----------------|----------------|
-| **[Epidise](https://www.epidise.com)** | AI-driven personal wellness guide integrating knowledge graphs & contextual intelligence. | Next.js, LangChain, Supabase, HuggingFace |
-| **Rooms** | Real-time chat and productivity platform with user-level AI support. | MERN Stack, Socket.io |
-| **Artha** | Personal financial guide AI Agent combining document-based RAG, OCR, and AI reasoning. | LangChain, OpenAI, Gradio |
+| **[Epidise](https://www.epidise.com)** | Business website for Epidise Healthcare Private Limited. | HTML, CSS, JS |
+| **NextRoom** | Real-time video calling and chat platform. | MERN Stack, Socket.io |
+| **Artha** | Personal financial guide AI Agent combining document-based RAG, OCR, and AI reasoning. | LangChain, Gemini, FastAPI |
 | **Image Analyzer** | Extracts dominant colors and palettes from uploaded images. | Python, Flask, NumPy |
 | **Smart System Optimizer (in progress)** | Windows Task Manager made smarter with AI Integration | Python, Gemini, LangChain |
 
