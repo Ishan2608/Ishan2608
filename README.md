@@ -8,7 +8,7 @@
 
 <div align="center">
 
-> *"No concept should feel magical — everything should feel intuitive once it's explained right."*
+> I obsess over structure — because great software should be as beautiful inside as it is outside.*
 
 </div>
 
