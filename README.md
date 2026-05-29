@@ -26,8 +26,6 @@ I sit at the intersection of building and explaining. Not many people are doing 
 
 **Multi-Agent systems** that plan across tasks, use external tools, and maintain memory across a session. My focus right now is on architectures where agents can reason about *when* to delegate, not just *how* to execute.
 
-**Production AI pipelines** — RAG systems, OCR-integrated agents, LLM-backed APIs — grounded in real use cases, not toy examples.
-
 **Systems without shortcuts** — I've built a Google Meet clone in raw JavaScript with no third-party SDK, and an AI agent from scratch rather than dropping in pre-packaged solutions. I want to understand what I'm building, all the way down.
 
 ---
@@ -41,11 +39,13 @@ I sit at the intersection of building and explaining. Not many people are doing 
 ### Artha — Financial AI Agent
 **The project I'm most proud of.**
 
-A multi-agent personal finance system. Artha reads your financial documents via OCR, indexes them for retrieval, and uses a network of LangChain agents to answer grounded, source-backed financial questions. The agents plan, delegate, and cross-verify before responding.
+A multi-agent personal finance system. Artha uses a network of LangChain agents to answer grounded, source-backed financial questions from your documents. The agents plan, delegate, and cross-verify before responding.
 
 I designed the entire architecture — agent roles, memory strategy, tool schema, retrieval pipeline — and built the FastAPI backend and the HTML/CSS/JS frontend using precision prompt engineering with Claude.
 
-`LangChain` `FastAPI` `Gemini` `RAG` `OCR` `HTML/CSS/JS`
+`LangChain` `FastAPI` `Gemini` `RAG` `HTML/CSS/JS`
+
+[View Repository →](https://github.com/Ishan2608/Artha)
 
 </td>
 <td width="50%" valign="top">
@@ -58,6 +58,8 @@ A fully functional real-time video calling and chat platform built on WebRTC —
 This was a deliberate challenge to myself: understand WebRTC deeply enough to build on top of it directly, not through an abstraction.
 
 `MERN Stack` `Socket.io` `WebRTC` `Core JavaScript`
+
+[View Repository →](https://github.com/Ishan2608/NextRoom)
 
 </td>
 </tr>
@@ -133,11 +135,11 @@ A case study in using pure HTML, CSS, and JavaScript to build something that fee
 
 ## Writing & Teaching
 
-I write for people who want to actually understand AI — not just use it.
+I write to make technical concepts concrete — not hand-wavy.
 
-**[GeeksforGeeks](https://www.geeksforgeeks.org/)** — Deep-dives on ML algorithms, Python internals, and neural network mechanics.
+**[GeeksforGeeks](https://www.geeksforgeeks.org/)** — Project guides and concept deep-dives on Python, JavaScript, Node.js, and full-stack development.
 
-**[Medium](https://medium.com/@ishanrastogi26)** — Long-form pieces on how LLMs reason and fail, what RAG actually does, and how to think about agent architecture.
+**[Medium](https://medium.com/@ishanrastogi26)** — Long-form pieces breaking down things that most tutorials skip over.
 
 I've also taught Computer Science and English at an NGO — which forced me to explain things at the level of first principles rather than assuming shared vocabulary. That experience shapes how I write and build.
 
