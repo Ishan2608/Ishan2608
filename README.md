@@ -16,7 +16,7 @@
 
 I build AI systems that actually work — systems that reason across documents, remember context, use tools, and surface the right answer at the right time. Then I write and teach about how they work under the hood, because too much of AI is treated like a black box.
 
-Currently assisting **[Epidise](https://www.epidise.com)** — an AI-powered personalized healthcare startup — with full-stack development and UI/UX design, while pursuing a **BCA (Hons.) specializing in AI & Data Science** at Graphic Era Hill University, Dehradun.
+Currently assisting **[Epidise](https://www.epidise.com)** — a personalized healthcare startup — with full-stack development and UI/UX design, while pursuing a **BCA (Hons.) specializing in AI & Data Science** at Graphic Era Hill University, Dehradun.
 
 I sit at the intersection of building and explaining. Not many people are doing both.
 
